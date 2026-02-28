@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://iyanuoluwa73.github.io/chuks",
+  "homepage": "https://iyanuoluwa73.github.io/chuks/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
